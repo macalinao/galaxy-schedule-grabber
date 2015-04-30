@@ -1,0 +1,25 @@
+{
+  "name": "galaxy-schedule-grabber",
+  "description": "Grabs your schedule from Galaxy.",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel": "^5.1.13",
+    "phantom": "^0.7.2"
+  },
+  "author": "Ian Macalinao <me@ian.pw>",
+  "repository": "simplyianm/galaxy-schedule-grabber",
+  "license": "MIT",
+  "keywords": [
+    "galaxy-schedule-grabber",
+    "galaxy",
+    "schedule",
+    "utd"
+  ],
+  "scripts": {
+    "start": "babel-node app"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
