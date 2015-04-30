@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "dependencies": {
     "babel": "^5.1.13",
+    "express": "^4.12.3",
     "phantom": "^0.7.2"
   },
   "author": "Ian Macalinao <me@ian.pw>",
